@@ -8,13 +8,13 @@ from snowflake.snowpark import Session
 from snowflake.ml.feature_store import FeatureStore, CreationMode
 from snowflake.ml.feature_store import StoreType
 
-SNOWFLAKE_SECRET_KEY = "mlops/dev/snowflake/credentials/sysadmin"
-SNOWFLAKE_ROLE       = "SYSADMIN"
-SNOWFLAKE_WAREHOUSE  = "ML_OPS"
-SNOWFLAKE_DATABASE   = "DEVELOPMENT"
-SNOWFLAKE_SCHEMA     = "ARTIFICIAL_INTELLIGENCE"
-FS_DATABASE          = "DEVELOPMENT"
-FS_SCHEMA            = "FEATURE_STORE_POC"
+SNOWFLAKE_SECRET_KEY = "TBD"
+SNOWFLAKE_ROLE       = "TBD"
+SNOWFLAKE_WAREHOUSE  = "TBD"
+SNOWFLAKE_DATABASE   = "TBD"
+SNOWFLAKE_SCHEMA     = "TBD"
+FS_DATABASE          = "TBD"
+FS_SCHEMA            = "TBD"
 AWS_REGION           = "us-west-2"
 
 
